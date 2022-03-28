@@ -1,5 +1,5 @@
 {
-      "name": "Siesta Robot",
+      "name": "URANIUM Robot",
       "description": "A Powerful Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/566d0f3fb2107bd8ecb27.jpg",  
-   "repository": "https://github.com/shiinobu/https://github.com/shiinobu/SiestaRobot",
+   "logo":    "https://telegra.ph/file/dbe1d32112b4d9a548157.jpg",  
+   "repository": "https://github.com/THEURANIUM92/CLASHERROBOT",
    "addons": [
           {
          "options": {
