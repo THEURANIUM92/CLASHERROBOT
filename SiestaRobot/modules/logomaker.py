@@ -114,7 +114,7 @@ async def logo_gen(event):
         await tbot.send_file(
             event.chat_id,
             file=flnme,
-            caption="Logo by [Uranium Robot](https://t.me/URANIUM_MUSIC_BOT)",
+            caption="Logo by [ᴜʀᴀɴɪᴜᴍ ʙᴏᴛ](https://t.me/URANIUMxROBOT)",
             force_document=False,
         )
         os.remove(flnme)
