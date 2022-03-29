@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3931976db775cf0955241.jpg">
+  <img src="https://telegra.ph/file/4f06bf9b29132faa78a4e.jpg">
 </p>
 
 <h2 align="center">
@@ -34,9 +34,9 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/saint_foire"> <img src="https://img.shields.io/badge/Vain-User-green?style=for-the-badge&logo=telegram" alt="Vain on Telegram" /> </a>
-<a href="https://t.me/machinaxsupport"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/machinaxupdate"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+<a href="https://t.me/THE_URANIUM"> <img src="https://img.shields.io/badge/Vain-User-green?style=for-the-badge&logo=telegram" alt="Vain on Telegram" /> </a>
+<a href="https://t.me/URANIUMXROBOT_SUPPORT"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href="https://t.me/URANIUM_UPDATES"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
 <h2 align="center">
