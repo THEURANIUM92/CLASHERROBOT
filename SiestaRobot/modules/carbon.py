@@ -46,7 +46,7 @@ async def repo(_, message):
                     InlineKeyboardButton(
                         "Repo", url="https://github.com/THEURANIUM92/CLASHERROBOT"), 
                     InlineKeyboardButton(
-                        "Support", url="https://t.me/URANIUM_MUSIC_SUPPORT")
+                        "Support", url="https://t.me/URANIUMXROBOT_SUPPORT")
                 ]
             ]
         )
