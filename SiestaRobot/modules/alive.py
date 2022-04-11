@@ -13,12 +13,12 @@ PHOTO = "https://telegra.ph/file/efe1fe3be3414134a448e.jpg"
 
 @register(pattern=("/alive"))
 async def awake(event):
-  TEXT = f"**Hi [{event.sender.first_name}](tg://user?id={event.sender.id}), I'm Siesta Robot.** \n\n"
+  TEXT = f"**Hi [{event.sender.first_name}](tg://user?id={event.sender.id}), I'm URANIUM ROBOT.** \n\n"
   TEXT += "♨️ **I'ᴍ Wᴏʀᴋɪɴɢ Pʀᴏᴘᴇʀʟʏ** \n\n"
   TEXT += f"♨️ **Mʏ Mᴀsᴛᴇʀ : [ᴜʀᴀɴɪᴜᴍ](https://t.me/THE_URANIUM)** \n\n"
   TEXT += f"♨️ **Lɪʙʀᴀʀʏ Vᴇʀsɪᴏɴ :** `{telever}` \n\n"
   TEXT += f"♨️ **Tᴇʟᴇᴛʜᴏɴ Vᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
   TEXT += f"♨️ **Pʏʀᴏɢʀᴀᴍ Vᴇʀsɪᴏɴ :** `{pyrover}` \n\n"
   TEXT += "**Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ Hᴇʀᴇ ❤️**"
-  BUTTON = [[Button.url("Help", "https://t.me/RIDDHITESH_music_bot?start=help"), Button.url("Support", "https://t.me/URANIUM_MUSIC_SUPPORT")]]
+  BUTTON = [[Button.url("Help", "https://t.me/URANIUMxROBOT?start=help"), Button.url("Support", "https://t.me/URANIUMXSUPPORT")]]
   await tbot.send_file(event.chat_id, PHOTO, caption=TEXT,  buttons=BUTTON)
